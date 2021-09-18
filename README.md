@@ -6,7 +6,7 @@
   I'm Daniel, Front End developer from 🇳🇱 <b>Amsterdam, The Netherlands</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://vuejs.org/" target="_blank"><u>Vue.JS</u></a>, <a style="color:#764ABC" href="https://vuex.vuejs.org/" target="_blank"><u>Vuex</u></a> and <a style="color:#000000" href="https://ethereum.org/" target="_blank"><u>Ethereum</u></a>.\
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://ethereum.org/" target="_blank"><u>Ethereum</u></a>.\
   🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
@@ -19,6 +19,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.js-success?style=flat-square&logo=vue.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-success?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
