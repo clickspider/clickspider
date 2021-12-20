@@ -7,7 +7,7 @@
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://ethereum.org/" target="_blank"><u>Ethereum</u></a>.\
-  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a> and <a href="https://danielfrey.me" target="_blank"><u>DanielFrey.me</u></a>.\
+  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a>, <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>ReactRecipeApp</u></a> and <a href="https://danielfrey.me" target="_blank"><u>DanielFrey.me</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
@@ -32,6 +32,7 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-lightblue?style=flat-square&logo=TypeScript&logoColor=blue" />
 </p>
 
 <h2>🌎 &nbsp;Where to find me</h2>
