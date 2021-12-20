@@ -7,7 +7,7 @@
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://ethereum.org/" target="_blank"><u>Ethereum</u></a>.\
-  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a>, <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>ReactRecipeApp</u></a> and <a href="https://danielfrey.me" target="_blank"><u>DanielFrey.me</u></a>.\
+  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a>, <a href="https://github.com/clickspider/recipe-react" target="_blank"><u>ReactRecipeApp</u></a> and <a href="https://danielfrey.me" target="_blank"><u>DanielFrey.me</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>
