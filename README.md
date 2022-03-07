@@ -1,53 +1,39 @@
-# <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" />&nbsp;<b>Hi, I'm Daniel Frey</b>
-<br>
+<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h3 align="center">A passionate frontend developer from 🇳🇱 Amsterdam, The Netherlands.</h3>
 
-<p>
-  <p>Hey there, welcome!</br>
-  I'm Daniel, Front End developer from 🇳🇱 <b>Amsterdam, The Netherlands</b>.</p>
-  	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> and <a style="color:#000000" href="https://ethereum.org/" target="_blank"><u>Ethereum</u></a>.\
-  🚧 &nbsp;I'm currently working on my personal project <a href="https://github.com/clickspider/recipe-app" target="_blank"><u>RecipeApp</u></a>, <a href="https://github.com/clickspider/recipe-react" target="_blank"><u>ReactRecipeApp</u></a> and <a href="https://danielfrey.me" target="_blank"><u>DanielFrey.me</u></a>.\
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
-</p>
-<br>
+<p align="left"> <a href="https://twitter.com/danielfrey101" target="blank"><img src="https://img.shields.io/twitter/follow/danielfrey101?logo=twitter&style=for-the-badge" alt="danielfrey101" /></a> </p>
 
-<h2>👨🏻‍💻 &nbsp;Things I code with</h2>
-<p>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-  <img alt="Vue.JS" src="https://img.shields.io/badge/-Vue.js-success?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-  <img alt="Vuex" src="https://img.shields.io/badge/-Vuex-success?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-db7092?style=flat-square&logo=storybook&logoColor=white" />
-  <img alt="LitElement" src="https://img.shields.io/badge/-LitElement-0078D4?style=flat-square&logo=Lit&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Vue Router" src="https://img.shields.io/badge/-Vue_Router-green?style=flat-square&logo=vue.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-lightblue?style=flat-square&logo=TypeScript&logoColor=blue" />
+- 🔭 I’m currently working on [RecipeApp](https://github.com/clickspider/recipe-app)
+
+- 🌱 I’m currently learning **React and Ethereum.**
+
+- 👯 I’m looking to collaborate on [DanielFrey.me](danielfrey.me)
+
+- 👨‍💻 All of my projects are available at [danielfrey.me/codes](danielfrey.me/codes)
+
+- 📝 I regularly podcast on [danielfrey.me/talks](danielfrey.me/talks)
+
+- 💬 Ask me about **React, Vue, Crypto**
+
+- 📫 How to reach me **danielfrey101@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-frey-574577172](https://www.linkedin.com/in/daniel-frey-574577172)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/danielfrey101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielfrey101" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/daniel-frey-574577172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-frey-574577172" height="30" width="40" /></a>
+<a href="/danielfrey.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="danielfrey.me" height="30" width="40" /></a>
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
-<p>
-  <a href="https://github.com/clickspider" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://codepen.io/clickspider" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daniel-frey-574577172/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:danielfrey101@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
-<h2>📈 &nbsp;Some Github Stats</h2>
-<span align="left">
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/danielfreyM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danielfreyM" /></a></p><br><br>
 
-![Clickspider GitHub Stats](https://github-readme-stats.vercel.app/api?username=clickspider&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
-</span>
-<span align="right">
-![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clickspider&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
-</span>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clickspider&show_icons=true&locale=en&layout=compact" alt="clickspider" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clickspider&show_icons=true&locale=en" alt="clickspider" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clickspider&" alt="clickspider" /></p>
