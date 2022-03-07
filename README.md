@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from 🇳🇱 Amsterdam, The Netherlands.</h3>
+<h3 align="center">A passionate frontend developer from 🇳🇱 The Netherlands.</h3>
 
 <p align="left"> <a href="https://twitter.com/danielfrey101" target="blank"><img src="https://img.shields.io/twitter/follow/danielfrey101?logo=twitter&style=for-the-badge" alt="danielfrey101" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React and Ethereum.**
 
-- 👯 I’m looking to collaborate on [DanielFrey.me](danielfrey.me)
+- 👯 I’m looking to collaborate on [DanielFrey.me](https://danielfrey.me)
 
-- 👨‍💻 All of my projects are available at [danielfrey.me/codes](danielfrey.me/codes)
+- 👨‍💻 All of my projects are available at [danielfrey.me/codes](https://danielfrey.me/codes)
 
-- 📝 I regularly podcast on [danielfrey.me/talks](danielfrey.me/talks)
+- 📝 I regularly podcast on [danielfrey.me/talks](https://danielfrey.me/talks)
 
 - 💬 Ask me about **React, Vue, Crypto**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/danielfrey101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielfrey101" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel-frey-574577172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-frey-574577172" height="30" width="40" /></a>
-<a href="/danielfrey.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="danielfrey.me" height="30" width="40" /></a>
+<a href="/https://www.danielfrey.me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.danielfrey.me/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,6 +31,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/danielfreyM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="danielfreyM" /></a></p><br><br>
+
+<h2>📈 &nbsp;Some Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clickspider&show_icons=true&locale=en&layout=compact" alt="clickspider" /></p>
 
