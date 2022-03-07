@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate frontend developer from 🇳🇱 The Netherlands.</h3>
+<h3 align="center">A passionate Software Engineer from 🇳🇱 The Netherlands.</h3>
 
 <p align="left"> <a href="https://twitter.com/danielfrey101" target="blank"><img src="https://img.shields.io/twitter/follow/danielfrey101?logo=twitter&style=for-the-badge" alt="danielfrey101" /></a> </p>
 
