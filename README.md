@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [RecipeApp](https://github.com/clickspider/recipe-app)
 
-- 🌱 I’m currently learning **Ethereum.**
+- 🌱 I’m currently learning more about **Ethereum and Micro Frontends.**
 
 - 👯 I’m looking to collaborate on [DanielFrey.me](https://danielfrey.me)
 
