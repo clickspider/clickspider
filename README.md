@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/danielfrey101" target="blank"><img src="https://img.shields.io/twitter/follow/danielfrey101?logo=twitter&style=for-the-badge" alt="danielfrey101" /></a> </p>
 
-- 🔭 I’m currently working on [RecipeApp](https://github.com/clickspider/recipe-app)
+- 🔭 I’m currently working on [Micro Frontends](https://github.com/clickspider/MicroFes)
 
 - 🌱 I’m currently learning more about **Ethereum and Micro Frontends.**
 
