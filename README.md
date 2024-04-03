@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Micro Frontends](https://github.com/clickspider/MicroFes)
 
-- 🌱 I’m currently learning more about **Ethereum and Micro Frontends.**
+- 🌱 I’m currently learning more about **LangChain and AI.**
 
 - 👯 I’m looking to collaborate on [DanielFrey.me](https://danielfrey.me)
 
