@@ -13,7 +13,7 @@
 
 - 📝 I regularly podcast on [danielfrey.me/talks](https://danielfrey.me/talks)
 
-- 💬 Ask me about **React, Vue, Crypto**
+- 💬 Ask me about **NextJS, TypeScript, AI**
 
 - 📫 How to reach me **danielfrey101@gmail.com**
 
