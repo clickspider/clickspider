@@ -2,7 +2,7 @@
 <h3 align="center">Tech Lead & AI Architect · Founder of FiveTimesFaster · Pioneer of the Agentic OS movement</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-frey-574577172" target="blank">
+  <a href="https://www.linkedin.com/in/⚡-daniel-frey-574577172" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Frey-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://fivetimesfaster.com" target="blank">
@@ -53,7 +53,7 @@ I explore the future of human-AI collaboration through my podcast and write abou
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangGraph" width="40" height="40" title="LangGraph"/>
-  <img src="https://img.shields.io/badge/OpenClaw-🐾-222?style=flat-square" alt="OpenClaw" height="40"/>
+  <img src="https://img.shields.io/badge/🦞_OpenClaw-222?style=flat-square" alt="OpenClaw" height="40"/>
 </p>
 
 **LangGraph · OpenClaw · Autonomous Agents · Agentic Orchestration · TypeScript · Next.js · Node.js**
@@ -63,5 +63,5 @@ I explore the future of human-AI collaboration through my podcast and write abou
 ### 📬 Reach me
 
 - 🌐 [fivetimesfaster.com](https://fivetimesfaster.com)
-- 💼 [linkedin.com/in/daniel-frey-574577172](https://www.linkedin.com/in/daniel-frey-574577172)
+- 💼 [linkedin.com/in/⚡-daniel-frey-574577172](https://www.linkedin.com/in/⚡-daniel-frey-574577172)
 - 📧 daniel@fivetimesfaster.com
