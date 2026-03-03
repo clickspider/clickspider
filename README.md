@@ -16,7 +16,7 @@
 
 I build autonomous agent systems that bridge the gap between LLMs and real-world execution.
 
-As the founder of **[FiveTimesFaster](https://fivetimesfaster.com)**, I'm pioneering the **Agentic OS** movement — AI teams that don't just assist, but autonomously manage complex engineering and sales workflows using frameworks like **LangGraph**.
+As the founder of **[FiveTimesFaster](https://fivetimesfaster.com)**, I'm pioneering the **Agentic OS** movement — AI teams that don't just assist, but autonomously manage complex engineering and sales workflows using **LangGraph** and **OpenClaw**.
 
 Currently leading high-impact AI initiatives at **Nationale-Nederlanden** alongside building FTF. I bring 9+ years of full-stack expertise with a sharp focus on agentic orchestration and self-improving systems.
 
@@ -51,10 +51,12 @@ I explore the future of human-AI collaboration through my podcast and write abou
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" alt="LangGraph" width="40" height="40" title="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenClaw-🐾-222?style=flat-square" alt="OpenClaw" height="40"/>
 </p>
 
-**LangGraph · Autonomous Agents · Agentic Orchestration · TypeScript · Next.js · Node.js**
+**LangGraph · OpenClaw · Autonomous Agents · Agentic Orchestration · TypeScript · Next.js · Node.js**
 
 ---
 
