@@ -2,7 +2,7 @@
 <h3 align="center">Tech Lead & AI Architect · Founder of FiveTimesFaster · Pioneer of the Agentic OS movement</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/⚡-daniel-frey-574577172" target="blank">
+  <a href="https://www.linkedin.com/in/daniel-frey-574577172" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Daniel%20Frey-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="https://fivetimesfaster.com" target="blank">
