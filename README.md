@@ -63,5 +63,4 @@ I explore the future of human-AI collaboration through my podcast and write abou
 ### 📬 Reach me
 
 - 🌐 [fivetimesfaster.com](https://fivetimesfaster.com)
-- 💼 [linkedin.com/in/⚡-daniel-frey-574577172](https://www.linkedin.com/in/⚡-daniel-frey-574577172)
-- 📧 daniel@fivetimesfaster.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-frey-574577172)
